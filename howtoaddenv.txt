@@ -1,0 +1,2 @@
+$env:OPENAI_API_KEY="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"
+$env:SERPAPI_API_KEY="a57f1e700ca671a4a3e730a05f32c582577bee7a6eaef7a0fa2a5d53ff8cf85f"
